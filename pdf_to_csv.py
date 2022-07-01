@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 """Saving the PDF file Srape.pdf with table into CSV format. 
-Submitted by Elena Daehnhardt.
 
 This script demonstrates two methods of converting a table 
 extracted from the Scrape.pdf file into a CSV file.
